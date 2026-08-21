@@ -8,7 +8,7 @@ int main()
     printf("%d\n",&Arr); //100
 
     printf("%d\n",&Arr+1); //104
-    printf("%d\n",(&Arr)+1); // 116
+    printf("%d\n",(&Arr)+1); // 
     
 
     return 0;
