@@ -2,7 +2,7 @@
 
 int main(){
 
-    // Local Varia
+    // Local Vari
     int value1 = 10;
     int value2 = 11;
     int ans = 0;
