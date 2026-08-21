@@ -6,7 +6,7 @@ int main()
 
     printf("%d\n",Arr); //100
     printf("%d\n",&Arr); //100
-    printf("%d\n",&Arr[0]); //
+    printf("%d\n",&Arr[0]); 
 
     return 0;
 
