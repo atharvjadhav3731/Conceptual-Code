@@ -1,0 +1,17 @@
+class Iteration3 {
+    
+    public static void main(String[] args)
+    {
+        int i =0;
+        i = 1;   // 1
+        //.    2
+        while(i<=4)
+        {            
+            System.out.println("Jay Ganesh..."); // 4
+            i++;                                   // 3
+        }
+        
+    
+    }
+}
+
